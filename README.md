@@ -26,20 +26,6 @@
 
 ![dark mode](docs/screenshots/dark-mode.png)
 
-## 技术栈
-
-**后端**
-- FastAPI — Python Web 框架
-- SQLAlchemy 2.0 — ORM，SQLite 数据库
-- BeautifulSoup4 — HTML 解析，抓取 GitHub Trending
-- APScheduler — 定时任务调度
-
-**前端**
-- React 19 — UI 框架
-- Vite 8 — 构建工具
-- Tailwind CSS v4 — 样式框架
-- Recharts — 图表库
-
 ## 项目结构
 
 ```

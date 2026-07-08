@@ -26,20 +26,6 @@ Scrapes the GitHub Trending page (daily / weekly / monthly) and tracks each list
 
 ![dark mode](docs/screenshots/dark-mode.png)
 
-## Tech Stack
-
-**Backend**
-- FastAPI — Python web framework
-- SQLAlchemy 2.0 — ORM, SQLite database
-- BeautifulSoup4 — HTML parsing for scraping GitHub Trending
-- APScheduler — scheduled jobs
-
-**Frontend**
-- React 19 — UI framework
-- Vite 8 — build tool
-- Tailwind CSS v4 — styling
-- Recharts — charting library
-
 ## Project Structure
 
 ```
