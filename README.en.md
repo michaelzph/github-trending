@@ -91,6 +91,8 @@ npm run dev
 
 Open the address printed in the terminal (defaults to `http://localhost:5173`).
 
+You can also run `start.sh` (backend) and `start-frontend.sh` (frontend) from the repo root — equivalent convenience scripts that additionally bind to a LAN-accessible address (`--host`), useful if you want to reach the app from another device on the same network.
+
 ## API
 
 | Method | Path | Description |
