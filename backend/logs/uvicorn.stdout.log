@@ -1010,3 +1010,5 @@ INFO:     127.0.0.1:64272 - "GET /api/repo/232/history?period=monthly&days=365 H
 INFO:     127.0.0.1:64275 - "GET /api/repo/232/history?period=monthly&days=365 HTTP/1.1" 200 OK
 INFO:     127.0.0.1:49355 - "GET /api/trending/daily HTTP/1.1" 200 OK
 INFO:     127.0.0.1:49357 - "GET /api/trending/daily HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51527 - "GET /api/trending/daily HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51529 - "GET /api/trending/daily HTTP/1.1" 200 OK
